@@ -1,5 +1,7 @@
 # Nick Bostrom Research - Forensic Evidence-Based Investigation
 
+> **AI-Enhanced Research with Human Direction**: This investigation utilizes advanced AI research capabilities combined with human direction and insider expertise. While the research methodology incorporates artificial intelligence for data collection and analysis, all strategic insights, contextual understanding, and investigative conclusions are guided by human expertise and insider knowledge. The AI serves as a powerful research tool, but the critical thinking, pattern recognition, and strategic analysis are driven by human intelligence and specialized knowhow.
+
 ## Executive Summary
 This document contains a comprehensive, evidence-based investigation into Nick Bostrom, his work, associations, and potential connections to broader networks and operations. The research focuses on identifying inconsistencies, contradictions, temporal inconsistencies, and suspicious patterns that may indicate coordinated influence operations or narrative construction.
 
